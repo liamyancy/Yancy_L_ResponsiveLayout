@@ -1,1 +1,1 @@
-# Yancy_L_ResponsiveLayout
+Responsive home page layout for FIP
